@@ -1,0 +1,16 @@
+{
+  "name": "MapPlus",
+  "author": "IR0NSIGHT",
+  "description": "Cleaner map, less clutter, more quality of life.",
+  "version": "0.3",
+  "starmade_version": "0.202.110",
+  "client_mod": true,
+  "server_mod": false,
+  "main_class": "me.iron.mapPlus.mod.ModMain",
+  "smd_resource_id": 8369,
+  "dependencies": [
+    -1
+  ],
+  "core_mod": true,
+  "requires_class_resize": false
+}
